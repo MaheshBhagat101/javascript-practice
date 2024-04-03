@@ -6,7 +6,7 @@ const repoCount = 10
 
 const gameName = new String("Mahesh_MB_com")
 
-// console.log(gameName[0]);
+// console.log(gameName[0]); //to know which object is present at which location.
 // console.log(gameName.length); // to know the length of the string
 // console.log(gameName.toUpperCase());// to convert the string to upper case
 // console.log(gameName.charAt(2));  //to know the location of character in a string
