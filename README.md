@@ -1,2 +1,2 @@
-# javascript-practice
+# javascript
  "code aur chai"
