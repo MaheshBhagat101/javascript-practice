@@ -1,2 +1,2 @@
 # javascript-practice
-learning javascript form "code aur chai"
+ "code aur chai"
